@@ -48,19 +48,19 @@ Here are some ideas to get you started:
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
-## SaaS Products
-- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform for React, Next.js, Vue, Nuxt, Svelte, and more. Features live translation, translation management, and language-based routing.
+### SaaS Products
+🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform for React, Next.js, Vue, Nuxt, Svelte, and more. Features live translation, translation management, and language-based routing.
 
-## Web & Developer Tooling
-- 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools featuring cross-framework adapters, same-origin APIs, and runtime control.
+### Web & Developer Tooling
+🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools featuring cross-framework adapters, same-origin APIs, and runtime control.
 
-## AI & Machine Learning
-- 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: A web application to train small character-level GPT models directly in the browser, with features to export models and resume from checkpoints.
+### AI & Machine Learning
+🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: A web application to train small character-level GPT models directly in the browser, with features to export models and resume from checkpoints.
 
-- 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
+🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
 
-## Desktop & P2P Applications
-- 📡 **[Nodex](https://github.com/cpauldev/nodex)**: A Windows desktop app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP). Built with Electron, React, TypeScript, Bun, and Vite.
+### Desktop & P2P Applications
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: A Windows desktop app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP). Built with Electron, React, TypeScript, Bun, and Vite.
 
-## Cryptography & Smart Contracts
-- 🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to prevent MEV front-running. Implemented across Solidity, Rust, Move, Cairo, and JavaScript.
+### Cryptography & Smart Contracts
+🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to prevent MEV front-running. Implemented across Solidity, Rust, Move, Cairo, and JavaScript.
