@@ -35,15 +35,15 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### SaaS Products
-🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform for React, Next.js, Vue, Nuxt, Svelte, and more. Features live translation, translation management, and language-based routing.
+🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform.
 
 ### Web & Developer Tooling
 🦋 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript.
 
-🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools featuring cross-framework adapters, same-origin APIs, and runtime control.
+🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
 
 ### AI & Machine Learning
-🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: A web application to train small character-level GPT models directly in the browser, with features to export models and resume from checkpoints.
+🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: A web application to train small character-level GPT models directly in the browser.
 
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
 
@@ -51,4 +51,4 @@
 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP).
 
 ### Cryptography & Smart Contracts
-🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to limit advance computation of future mappings.
+🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator/algorithm designed for blockchain smart contracts.
