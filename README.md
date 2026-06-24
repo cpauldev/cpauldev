@@ -48,7 +48,7 @@
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
 
 ### Desktop & P2P Applications
-📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP). Built with Electron, React, TypeScript, Bun, and Vite.
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP).
 
 ### Cryptography & Smart Contracts
-🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to prevent MEV front-running. Implemented across Solidity, Rust, Move, Cairo, and JavaScript.
+🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to limit advance computation of future mappings.
