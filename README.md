@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform for React, Next.js, Vue, Nuxt, Svelte, and more. Features live translation, translation management, and language-based routing.
 
 ### Web & Developer Tooling
+🦋 **[Ratekeeper](https://github.com/cpauldev/ratekeeper)**: A client-agnostic, multi-stage rate limiting engine for TypeScript, powered by @upstash/ratelimit. Designed for tiered pipelines (Global to Endpoint-level) with fail-open/fail-closed safety, supporting any Redis-compatible backend.
+
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools featuring cross-framework adapters, same-origin APIs, and runtime control.
 
 ### AI & Machine Learning
