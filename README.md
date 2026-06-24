@@ -1,19 +1,5 @@
 ## Hello, I'm Christian 👋
 📍 Florida
-<!--
-**cpauldev/cpauldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -62,7 +48,7 @@ Here are some ideas to get you started:
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
 
 ### Desktop & P2P Applications
-📡 **[Nodex](https://github.com/cpauldev/nodex)**: A Windows desktop app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP). Built with Electron, React, TypeScript, Bun, and Vite.
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP). Built with Electron, React, TypeScript, Bun, and Vite.
 
 ### Cryptography & Smart Contracts
 🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator designed for blockchain smart contracts to prevent MEV front-running. Implemented across Solidity, Rust, Move, Cairo, and JavaScript.
