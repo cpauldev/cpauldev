@@ -38,7 +38,17 @@
 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams that turns websites into global products, reaching audiences in over 120 languages with an experience that feels local.
 
 ### Web & Developer Tooling
-🦋 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
+### Web & Developer Tooling
+
+🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
+
+🛣️ **[RouteEngine](https://github.com/cpauldev/route-engine)**: A secure HTTP route boundary engine for TypeScript.
+
+🪪 **[SessionEngine](https://github.com/cpauldev/session-engine)**: A browser session and cache lifecycle engine for TypeScript.
+
+🗝️ **[SecretEngine](https://github.com/cpauldev/secret-engine)**: A cryptographic secret utility engine for TypeScript.
+
+⬛ **[RedactLog](https://github.com/cpauldev/redact-log)**: A sensitive log redaction engine for TypeScript.
 
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
 
@@ -51,4 +61,4 @@
 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP).
 
 ### Cryptography & Smart Contracts
-🔒 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator/algorithm designed for blockchain smart contracts.
+🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator/algorithm designed for blockchain smart contracts.
