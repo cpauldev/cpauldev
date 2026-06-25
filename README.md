@@ -47,7 +47,7 @@
 
 🗝️ **[SecretEngine](https://github.com/cpauldev/secret-engine)**: A cryptographic secret utility engine for TypeScript.
 
-⬛ **[RedactLog](https://github.com/cpauldev/redact-log)**: A sensitive log redaction engine for TypeScript.
+⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
 
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
 
