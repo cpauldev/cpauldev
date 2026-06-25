@@ -35,10 +35,10 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### SaaS Products
-🌐 **[Worldality](https://github.com/cpauldev/worldality)**: A framework-agnostic internationalization (i18n) platform.
+🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams that turns websites into global products, reaching audiences in over 120 languages with an experience that feels local.
 
 ### Web & Developer Tooling
-🦋 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript.
+🦋 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
 
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
 
