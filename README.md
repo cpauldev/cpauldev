@@ -38,7 +38,6 @@
 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams that turns websites into global products, reaching audiences in over 120 languages with an experience that feels local.
 
 ### Web & Developer Tooling
-### Web & Developer Tooling
 
 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
 
