@@ -41,7 +41,7 @@
 
 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
 
-🛣️ **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript.
+🚧 **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript.
 
 🪪 **[SessionEngine](https://github.com/cpauldev/session-engine)**: A browser session and cache lifecycle engine for TypeScript.
 
