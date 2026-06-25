@@ -35,7 +35,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### SaaS Products
-🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams that turns websites into global products, reaching audiences in over 120 languages with an experience that feels local.
+🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams. Turn your website into a global product and reach audiences in over 120 languages with an experience that feels local.
 
 ### Web & Developer Tooling
 
