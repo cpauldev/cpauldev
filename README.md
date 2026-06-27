@@ -1,5 +1,5 @@
 ## Hello, I'm Christian 👋
-📍 Florida | 🥞 Full-stack developer 
+📍 Florida | 🥞 Full-stack developer | ⚛️ Also interested in entrepreneurship, materials science and discovery, nanotechnology, molecular self-assembly, astronomy, and cosmology.
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
