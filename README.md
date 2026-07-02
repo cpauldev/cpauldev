@@ -35,15 +35,15 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### SaaS Products
-🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform built for developers and enterprise teams. Turn your website into a global product and reach audiences in over 120 languages with an experience that feels local.
+🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform to turn websites into a global products and to reach audiences in over 120 languages.
 
 ### AI & Machine Learning
-🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: A web application to train small character-level GPT models directly in the browser.
+🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser.
 
-🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: A CLI tool to train character-level transformers on custom text datasets and generate matching text patterns.
+🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
 
 ### Desktop & P2P Applications
-📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into world radio stations, inspecting local networks, and discovering peers on decentralized networks (Bitcoin, Ethereum, Base, IPFS, XMTP).
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into radio stations, inspecting local networks, and crawling decentralized P2P networks like Bitcoin, Ethereum, Base, IPFS, and XMTP.
 
 ### Web & Developer Tooling
 
@@ -60,4 +60,4 @@
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
 
 ### Cryptography & Smart Contracts
-🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator/algorithm designed for blockchain smart contracts.
+🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator designed for blockchain smart contracts.
