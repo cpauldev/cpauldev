@@ -43,7 +43,7 @@
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
 
 ### Desktop & P2P Applications
-📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for tuning into radio stations, inspecting local networks, and crawling decentralized P2P networks like Bitcoin, Ethereum, Base, IPFS, and XMTP.
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
 
 ### Web & Developer Tooling
 
