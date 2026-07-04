@@ -60,4 +60,4 @@
 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
 
 ### Cryptography & Smart Contracts
-🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator designed for blockchain smart contracts.
+🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator for blockchain smart contracts.
