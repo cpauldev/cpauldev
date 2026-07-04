@@ -42,9 +42,6 @@
 
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
 
-### Desktop & P2P Applications
-📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
-
 ### Web & Developer Tooling
 
 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
@@ -58,6 +55,9 @@
 ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
 
 🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A universal bridge for in-browser development tools.
+
+### Desktop & P2P Applications
+📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
 
 ### Cryptography & Smart Contracts
 🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A secure, deterministic, and non-repeating sequence generator designed for blockchain smart contracts.
