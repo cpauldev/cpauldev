@@ -53,7 +53,7 @@
 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages. Reach billions of customers globally with seamless integration, detect user-facing text in code, and update translations with one-click using Worldality Studio, CLI, Widget, and Translate.
 
 ### AI & Machine Learning
-🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser.
+🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an Electron app for Windows, macOS, and Linux.
 
 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
 
