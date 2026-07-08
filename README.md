@@ -69,7 +69,7 @@
 
 ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
 
-🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A protocol that standardizes runtime start/restart/stop, bridge health/state, websocket events, and API proxying across dev servers, with adapters for Next.js, Vite, Webpack, Nuxt, and more.
+🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A protocol that standardizes: runtime start/restart/stop, bridge health/state, websocket events, and API proxying across dev servers, with adapters for Next.js, Vite, Webpack, Nuxt, and more.
 
 ### Desktop & P2P Applications
 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
