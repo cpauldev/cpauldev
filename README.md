@@ -59,6 +59,8 @@
 
 ### Web & Developer Tooling
 
+🌉 **[Universal Bridge](https://github.com/cpauldev/universal-bridge)**: A protocol for exposing local processes across frameworks and runtimes. Standardizes runtime start/restart/stop, bridge health/state, websocket events, and API proxying across dev servers, with adapters for Next.js, Vite, Node, Bun, and more.
+
 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
 
 🚧 **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript.
@@ -68,8 +70,6 @@
 🗝️ **[SecretEngine](https://github.com/cpauldev/secret-engine)**: A cryptographic secret utility engine for TypeScript.
 
 ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
-
-🌉 **[UniversaKit](https://github.com/cpauldev/universa-kit)**: A protocol that standardizes: runtime start/restart/stop, bridge health/state, websocket events, and API proxying across dev servers, with adapters for Next.js, Vite, Webpack, Nuxt, and more.
 
 ### Desktop & P2P Applications
 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
