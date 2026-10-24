@@ -1,8 +1,8 @@
 # Hello, I'm Christian 👋
 
-📍 Florida | Full-stack. Building web apps, desktop software, AI/ML tools, and developer infrastructure.
+📍 Florida | Full-stack Engineer | Building web apps, desktop software, AI/ML tools, and developer infrastructure.
 
-⚛️ Also interested in entrepreneurship, materials science, and astronomy.
+❤️ Also interested in entrepreneurship, materials science, and astronomy.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
