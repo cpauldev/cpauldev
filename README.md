@@ -37,7 +37,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## SaaS Products
-- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages. Reach globally with seamless integration, detect user-facing text in code, and update translations with one-click using Worldality Studio, CLI, Widget, and Translate.
+- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages.
 
 ## AI & Machine Learning
 - 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an Electron app for Windows, macOS, and Linux.
@@ -45,7 +45,7 @@
 
 ## Web & Developer Tooling
 
-- 🌉 **[Universal Bridge](https://github.com/cpauldev/universal-bridge)**: A protocol for exposing local processes across frameworks and runtimes. Standardizes runtime start/restart/stop, bridge health/state, websocket events, and API proxying across dev servers, with adapters for Next.js, Vite, Node, Bun, and more.
+- 🌉 **[Universal Bridge](https://github.com/cpauldev/universal-bridge)**: A protocol for exposing local processes across frameworks and runtimes.
 - 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
 - 🚧 **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript.
 - 🪪 **[SessionEngine](https://github.com/cpauldev/session-engine)**: A browser session and cache lifecycle engine for TypeScript.
