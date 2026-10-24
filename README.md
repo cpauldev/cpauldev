@@ -1,6 +1,6 @@
 # Hello, I'm Christian 👋
 
-📍 Florida | Full-stack Engineer | Building web apps, desktop software, AI/ML tools, and developer infrastructure.
+📍 Florida | 🖥️ Full-stack Engineer | 🛠️ Building web apps, desktop software, AI/ML tools, and developer infrastructure.
 
 ❤️ Also interested in entrepreneurship, materials science, and astronomy.
 
