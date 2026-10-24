@@ -37,9 +37,11 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## SaaS Products
+
 - 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages.
 
 ## AI & Machine Learning
+
 - 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an Electron app for Windows, macOS, and Linux.
 - 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
 
@@ -53,7 +55,9 @@
 - ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
 
 ## Desktop & P2P Applications
+
 - 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
 
-### Cryptography & Smart Contracts
+## Cryptography & Smart Contracts
+
 - 🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator for blockchain smart contracts.
