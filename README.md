@@ -36,7 +36,7 @@
 ![Coolify](https://img.shields.io/badge/-Coolify-000000?style=flat-square&logo=coolify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## SaaS Products
+## Services
 
 - 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages.
 
