@@ -38,7 +38,7 @@
 
 ## Services
 
-- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for websites to support over 120 languages.
+- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for applications to support over 120 languages.
 
 ## AI/ML
 
