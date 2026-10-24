@@ -24,8 +24,6 @@
 ![WebGPU](https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white)
 ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Viem](https://img.shields.io/badge/-Viem-000000?style=flat-square)
-![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
 
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
