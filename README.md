@@ -38,23 +38,23 @@
 
 ## Services
 
-- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for applications to support over 120 languages.
+- 🌐 **[Worldality](https://github.com/cpauldev/worldality)**: An internationalization platform for applications to support over 120 languages
 
 ## AI/ML
 
-- 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an Electron app for Windows, macOS, and Linux.
-- 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers.
+- 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an app
+- 🤖 **[DreamPhraseGPT](https://github.com/cpauldev/dreamphrase-gpt)**: CLI tool to train character-level transformers
 
 ## Developer Tools
 
-- 🌉 **[Universal Bridge](https://github.com/cpauldev/universal-bridge)**: A protocol for exposing local processes across frameworks and runtimes.
-- 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript, powered by `@upstash/ratelimit`.
-- 🚧 **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript.
-- 🪪 **[SessionEngine](https://github.com/cpauldev/session-engine)**: A browser session and cache lifecycle engine for TypeScript.
-- 🗝️ **[SecretEngine](https://github.com/cpauldev/secret-engine)**: A cryptographic secret utility engine for TypeScript.
-- ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript.
+- 🌉 **[Universal Bridge](https://github.com/cpauldev/universal-bridge)**: A protocol for exposing local processes across frameworks and runtimes
+- 🚦 **[RateEngine](https://github.com/cpauldev/rate-engine)**: A client-agnostic, multi-stage rate limiting policy engine for TypeScript
+- 🚧 **[BoundaryEngine](https://github.com/cpauldev/boundary-engine)**: A secure HTTP request boundary engine for TypeScript
+- 🪪 **[SessionEngine](https://github.com/cpauldev/session-engine)**: A browser session and cache lifecycle engine for TypeScript
+- 🗝️ **[SecretEngine](https://github.com/cpauldev/secret-engine)**: A cryptographic secret utility engine for TypeScript
+- ⬛ **[RedactEngine](https://github.com/cpauldev/redact-engine)**: A sensitive data redaction engine for TypeScript
 
 ## Experimental
 
-- 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An Electron app for listening to global radio, inspecting local networks, and crawling P2P networks.
-- 🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator for blockchain smart contracts.
+- 🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator for blockchain smart contracts
+- 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An app for listening to global radio, inspecting local networks, and crawling P2P networks
