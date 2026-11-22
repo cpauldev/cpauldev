@@ -42,7 +42,7 @@
 
 - 🧭 **[Neuron Explorer](https://github.com/cpauldev/neuron-explorer)**: Explore language model neurons through interactive visualization and steering (fork)
 - 🧠 **[Train GPT in Browser](https://github.com/cpauldev/train-gpt-in-browser)**: Train character-level GPTs in your browser or an app
-- 🤖 **[Character-Level Transformer](https://github.com/cpauldev/character-level-transformer)**: CLI tool to train character-level transformers
+- 🤖 **[Character-Level Transformer](https://github.com/cpauldev/character-level-transformer)**: CLI tool to train character-level transformers locally
 
 ## Developer Tools
 
