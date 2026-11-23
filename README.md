@@ -56,4 +56,3 @@
 ## Experimental
 
 - 🎲 **[Epoch Permutation](https://github.com/cpauldev/epoch-permutation)**: A deterministic, non-repeating sequence generator for blockchain smart contracts
-- 📡 **[Nodex](https://github.com/cpauldev/nodex)**: An app for listening to global radio, inspecting local networks, and crawling P2P networks
